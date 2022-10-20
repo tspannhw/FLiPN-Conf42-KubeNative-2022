@@ -1,5 +1,12 @@
 # FLiPN-Conf42-KubeNative-2022
 
+#### Slides
+
+* https://www.slideshare.net/bunkertor/conf42kubenative-building-realtime-pulsar-apps-on-k8
+
+#### Video
+
+* https://www.youtube.com/watch?v=346PAVtrJNE&list=PLIuxSyKxlQrCXmMskCiu1Pfv2NDKvM6qd&index=5
 
 #### Articles
 
